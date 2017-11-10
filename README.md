@@ -4,7 +4,7 @@ I wanted to articulate what a successful, sustainable open source project looks 
 
 Let's keep the focus on high level things that apply to as many projects as possible rather than practices that may be specific to a programming language or ecosystem.
 
-Contributions via pull requests are very welcome.
+Contributions and discussions are very welcome, just open an [issue](https://github.com/librariesio/sustainable-oss-attributes/issues) or a [pull request](https://github.com/librariesio/sustainable-oss-attributes/edit/master/README.md).
 
 This document is licensed under [Creative Commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
