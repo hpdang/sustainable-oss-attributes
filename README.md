@@ -1,8 +1,14 @@
-# sustainable-oss-attributes
+# What does a sustainable open source project look like?
 
 I wanted to articulate what a successful, sustainable open source project looks like, including what kinds of work do people do on it, and what kind of community of users and contributors it has. Then with that as an end point, we can work backwards to figure out how to bring that world to life.
 
 Let's keep the focus on high level things that apply to as many projects as possible rather than practices that may be specific to a programming language or ecosystem.
+
+Contributions via pull requests are very welcome.
+
+This document is licensed under [Creative Commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+<hr>
 
 So here’s the list of things that make up the ideal sustainable open source project:
 
