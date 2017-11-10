@@ -1,8 +1,6 @@
 # What does a sustainable open source project look like?
 
-I wanted to articulate what a successful, sustainable open source project looks like, including what kinds of work do people do on it, and what kind of community of users and contributors it has. Then with that as an end point, we can work backwards to figure out how to bring that world to life.
-
-Let's keep the focus on high level things that apply to as many projects as possible rather than practices that may be specific to a programming language or ecosystem.
+In a [recent blog post](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) I wanted to articulate what a successful, sustainable open source project looks like, including what kinds of work do people do on it, and what kind of community of users and contributors it has. Then with that as an end point, we can work backwards to figure out how to bring that world to life.
 
 Contributions and discussions are very welcome, just open an [issue](https://github.com/librariesio/sustainable-oss-attributes/issues) or a [pull request](https://github.com/librariesio/sustainable-oss-attributes/edit/master/README.md).
 
